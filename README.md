@@ -25,8 +25,8 @@ Runs without GPS keep their distance and time. A run that appears twice in the e
 
 ## Get your data
 
-1. Request your data at <https://www.nike.com/privacy/your-data>. Ask explicitly for all your workout data as TCX.
-2. Nike emails a zip with `tcx/*.tcx`, plus a PDF summary.
+1. Sign in at <https://www.nike.com/member/settings/privacy> and click "Request Data" under "Download Your Data" at the bottom of the page. There is no format choice.
+2. Nike sends a zip (`nikeuserdata.zip`) with one TCX per run in `tcx/`, plus a PDF summary.
 
 ## Convert
 
